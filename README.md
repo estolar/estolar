@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Enrique Stolar Sirlupú</h1>
-<h3 align="center">Mg. in IT Management | University professor and web developer passionate about marketing and technology</h3>
+<h3 align="center">Mg. in IT Management | University professor and web developer, passionate about marketing and technology</h3>
 
 ---
 
