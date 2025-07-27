@@ -1,6 +1,3 @@
-Perfecto, aquí tienes la versión en inglés del `README.md` para tu perfil `estolar/estolar`, adaptado a tu estilo profesional e intereses:
-
-```markdown
 <h1 align="center">Hi there 👋, I'm Enrique Stolar Sirlupú</h1>
 <h3 align="center">University professor and web developer passionate about marketing and technology</h3>
 
