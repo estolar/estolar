@@ -27,4 +27,34 @@
 
 ---
 
-### 📬 Let
+### 📬 Let's Connect
+
+- 🌐 [enriquestolar.com](https://enriquestolar.com)
+- ✉️ enriquestolar@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/enriquestolar/)
+
+---
+
+### ✍️ Blog Posts
+
+<!-- You can write here or link your Medium / Dev.to posts -->
+- Coming soon…
+
+---
+
+### ⚡ Fun fact
+
+> Huge Star Trek fan 🖖 — also built a retro arcade game: [Medusas Voiid Attack](https://enriquestolar.com/medusa/)
+
+---
+
+### 📊 GitHub Stats
+
+![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=estolar&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estolar&layout=compact&theme=react)
+
+---
+
+### 👁️ Profile Views
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=estolar&label=Profile+Views&color=blue)
