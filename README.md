@@ -12,19 +12,18 @@
 <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<br><br>
+<br><br><br>
 
 ---
 
 ### 🚀 Current Projects
 
-- 🔭 Building [EncuentraMascotas.org](https://encuentramascotas.org), a lost pet rescue platform
-- 🎓 Teaching *Web App Development* and *Interface Design 2* at IDAT
-- 🧪 Researching adaptive learning powered by AI in higher education
+- 🐾 [EncuentraMascotas.org](https://github.com/estolar/EncuentraMascotas): A platform to help people find and rescue lost pets.
+- 👾 [Medusas Voiid Attack](https://enriquestolar.com/medusa/): A retro browser arcade game for PC/Laptop. [View source code](https://github.com/estolar/MedusasGame)
 
 ---
 
-### 📫 Let's connect
+### 📬 Let's Connect
 
 - 🌐 [enriquestolar.com](https://enriquestolar.com)
 - ✉️ enriquestolar@gmail.com
@@ -32,10 +31,26 @@
 
 ---
 
+### ✍️ Blog Posts
+
+<!-- You can write here or link your Medium / Dev.to posts -->
+- Coming soon…
+
+---
+
 ### ⚡ Fun fact
 
 > Huge Star Trek fan 🖖 — also built a retro arcade game: [Medusas Voiid Attack](https://enriquestolar.com/medusa/)
 
-```
+---
 
-¿Quieres que añada una sección sobre tus blog posts o cursos? También puedo incluir GitHub stats o un contador de visitas.
+### 📊 GitHub Stats
+
+![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=estolar&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estolar&layout=compact&theme=react)
+
+---
+
+### 👁️ Profile Views
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=estolar&label=Profile+Views&color=blue)
