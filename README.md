@@ -27,6 +27,12 @@
 
 ---
 
+### 📚 Courses & Teaching
+
+- 👨‍🏫 [Web App Development](https://www.enriquestolar.com/daw/) – Hands-on course on HTML, CSS, JavaScript, Node.js and React, taught at IDAT.
+
+---
+
 ### 📬 Let's Connect
 
 - 🌐 [enriquestolar.com](https://enriquestolar.com)
