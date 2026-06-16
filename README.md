@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Enrique%20Stolar%20Sirlupú&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Mg.%20in%20IT%20Management%20%7C%20University%20Professor%20%7C%20Senior%20Web%20Developer&descAlignY=60&descAlign=50" alt="Enrique Stolar Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Enrique%20Stolar%20Sirlupú&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Mg.%20in%20IT%20Management%20%7C%20University%20Professor%20%7C%20Senior%20Web%20Developer&descAlignY=60&descAlign=50" alt="Enrique Stolar Header" />
 </div>
 
 <h3 align="center">
